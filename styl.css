@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(90deg, rgba(190,189,194,1) 1%, rgb(144, 188, 226) 49%, rgba(190,189,194,1) 99%);
+}
+
+header{
+    font-size: 30px;
+    width: 70%;
+    margin: auto;
+    padding: auto;
+}
+
+.carousel-item{
+    position: relative;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+.carousel-img-one {
+    background-image: url(pexels-padrinan-579471.jpg);
+}
+
+.carousel-img-two {
+    background-image: url(pexels-rethaferguson-3825581.jpg);
+}
+
+.carousel-img-three {
+    background: url(pexels-georgie-devlin-76906720-8640331.jpg);
+}
+
+.shadow{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-inner {
+    border-radius: 20px;
+}
+
+main{
+    
+    width: 70.5%;
+    margin: auto;
+    padding: auto;
+}
+
